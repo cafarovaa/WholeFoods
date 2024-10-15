@@ -1,0 +1,39 @@
+{
+    "store": [
+        {
+            "title": "Clapham Junction",
+            "hours": "Store Hours: General Public Monday to Saturday: 8am-9pm. Sunday: 11am-5pm.",
+            "about": "305-311 Lavender Hill London SW11 1LN",
+            "number": "(020) 7585 1488",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.6961856678454!2d-0.16919772472996297!3d51.46373431389402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760598361d132d%3A0x1c9ebc5818b97bde!2s305-311%20Lavender%20Hill%2C%20London%20SW11%201LN%2C%20UK!5e0!3m2!1sen!2saz!4v1728566076187!5m2!1sen!2saz"
+        },
+        {
+            "title": "Camden",
+            "hours": "Store Hours: General public Monday to Saturday: 8am-9pm. Sunday: 9am-9pm. ",
+            "about": "49 Parkway, London, NW1 7PN",
+            "number": "(020) 7428 7575",
+            "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2481.6485100819846!2d-0.1446321!3d51.5380064!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ae0f90436b9%3A0x3bed92931634a3a4!2s49%20Parkway%2C%20London%20NW1%207PN%2C%20UK!5e0!3m2!1sen!2saz!4v1728564251642!5m2!1sen!2saz"
+        },
+        {
+            "title": "High Street Kensington",
+            "hours": "Store Hours: General public Monday to Saturday: 8am-10pm. Sunday: 12pm-6pm (open from 11:30am for browsing).",
+            "about": "63-97 Kensington High St, London, W8 5SE",
+            "number": "(020) 7368 4500",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.628118700486!2d-0.1906795!3d51.5016915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760ff65415b88f%3A0x97bebbdaa2a8af5b!2s63-97%20Kensington%20High%20St%2C%20London%20W8%205SE%2C%20UK!5e0!3m2!1sen!2saz!4v1728564197534!5m2!1sen!2saz"
+        },
+        {
+            "title": "Piccadilly",
+            "hours": "Store Hours: General public Monday to Saturday: 8am-10pm. Sunday: 12pm-6pm.",
+            "about": "20 Glasshouse St, London, W1B 5AR",
+            "number": "(020) 7406 3100",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.1437818936215!2d-0.1361529!3d51.5105781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604d41619882d%3A0xbd811cbf534a0dba!2s20%20Glasshouse%20St%2C%20London%20W1B%205DL%2C%20UK!5e0!3m2!1sen!2saz!4v1728564141446!5m2!1sen!2saz"
+        },
+        {
+            "title": "Stoke Newington",
+            "hours": "Store Hours: General public Monday to Saturday: 8am-9pm. Sunday: 9am-9pm.",
+            "about": "32-40 Stoke Newington Church St, London, N16 0LU",
+            "number": "(020) 7254 2332",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.327160761962!2d-0.0753066!3d51.562235699999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761c614ca0e7d9%3A0xe9832a0f04aad122!2s32-40%20Stoke%20Newington%20Church%20St%2C%20London%20N16%200LU%2C%20UK!5e0!3m2!1sen!2saz!4v1728564037123!5m2!1sen!2saz"
+        }   
+    ]
+}
